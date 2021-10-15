@@ -1,0 +1,5 @@
+Ali Alpay,Mühendis
+Selvi Selcan,Hukuk
+Nurbanu Güzel,Tıp
+Elif Nacak,MühendisAlidesidero,Yazılım
+Alidesidero,Yazılım
