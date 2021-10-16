@@ -1,0 +1,5 @@
+Ali Alpay,100,100,100
+Selvi Selcan,50,35,70
+Nurbanu Güzel,90,60,100
+Elif Nacak,40,60,90
+Alidesidero,10,80,50
